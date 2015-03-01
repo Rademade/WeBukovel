@@ -1,3 +1,0 @@
-== Example for WeBukovel conference
-
-[Presentation with examples](http://www.slideshare.net/vladislavmelanitskiy/rappid-api-development)
